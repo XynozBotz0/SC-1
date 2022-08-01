@@ -1,12 +1,12 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "https://zenzapis.xyz"
   },
   "options": {
     "autoRead": false,
     "self": false,
-    "limitCount": 20,
+    "limitCount": 10,
     "limitGame": 20
   },
   "exif": {
@@ -14,7 +14,7 @@
     "author": "https://zenzapi.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6283839200413"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://zenzapis.xyz"
